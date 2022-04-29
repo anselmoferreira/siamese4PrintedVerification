@@ -11,6 +11,6 @@ https://drive.google.com/drive/folders/1WBHWhnZ_tX7P3dhrSYwXc4tqybtJ8_vH?usp=sha
 
 Once downloaded, join the subfolders together with the github repository you just cloned.
 
-Any suggestions and issues found in the code or in downloaded can be reported to anselmo.ferreira "at" gmail.com
+Any suggestions and issues found in the code or in the downloading/configuration steps can be reported to anselmo.ferreira "at" gmail.com
 
 
