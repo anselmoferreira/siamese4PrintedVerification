@@ -1,6 +1,6 @@
 # siamese4PrintedVerification
 
-Demonstration of the approach presented on the paper entitled Ensembling Shallow Siamese Neural Network Architectures for Printed Documents Verification in Data-Scarcity Scenarios, published at IEEE Access in 2021.
+Demonstration of the approach presented on the paper entitled <i>Ensembling Shallow Siamese Neural Network Architectures for Printed Documents Verification in Data-Scarcity Scenarios</i>, published at IEEE Access in 2021.
 
 You can find the paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9529175&tag=1">HERE</a>
 
