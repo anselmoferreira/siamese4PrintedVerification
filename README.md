@@ -4,7 +4,7 @@ Demonstration of the approach presented on the paper entitled Ensembling Shallow
 
 You can find the paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9529175&tag=1">HERE</a>
 
-There is a python notebook that you can run and see the source code working in some example images.
+There is a python notebook (Demo_Snn.ipynb) that you can run and see the source code working in some example images.
 
 We could not upload the data and models due to Github's space limitations. So you need to download them from 
 https://drive.google.com/drive/folders/1WBHWhnZ_tX7P3dhrSYwXc4tqybtJ8_vH?usp=sharing
